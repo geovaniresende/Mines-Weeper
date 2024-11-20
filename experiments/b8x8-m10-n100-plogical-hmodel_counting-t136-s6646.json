@@ -1,0 +1,1 @@
+{"player_type": "logical", "tles": 4, "time_limit": 136, "wins": 40, "losses": 56, "n_mines": 10, "heuristic": "model_counting", "board": [8, 8]}
