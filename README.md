@@ -1,7 +1,5 @@
-# UFBA AI Minesweeper
-Este repositório contém todos os códigos do trabalho final de Gabriel Dahia e Pedro Vidal para a disciplina MATA64 - Inteligência Artificial da Universidade Federal da Bahia.
-
-Para este trabalho, implementamos nossa versão do jogo campo minado e um programa que permite que um agente especificado pelo usuário jogue o jogo. Atualmente, os únicos agentes implementados são a interação com o próprio usuário e um agente lógico.
+Geovani de Souza Resende
+Para este trabalho, implementei a minha versão do jogo campo minado e um programa que permite que um agente especificado pelo usuário jogue o jogo. Atualmente, os únicos agentes implementados são a interação com o próprio usuário e um agente lógico.
 
 # Requisitos
 * Python 3.5+ (o código é supostamente compatível com Python 2.7+, mas não foi devidamente testado);
